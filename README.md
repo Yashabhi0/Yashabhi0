@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yashwanth Abhishek  
 
-🎓 B.Tech 2nd Year | Data Science & Engineering @ MLRIT  
+🎓 B.Tech | Data Science & Engineering @ MLRIT  
 💡 Passionate about AI, Data Science, and building impactful micro-projects  
 
 ---
@@ -9,17 +9,15 @@
 - 🔭 Currently working on **AI + Web Projects**  
 - 🌱 Learning **Data Analysis, Python, and Machine Learning**  
 - 🤖 Exploring **Agentic AI, AI-powered apps, and micro-projects**  
-- 🎮 Interested in **Game Dev (Unity 2D/3D)**  
-- 🎸 Hobby: Learning to play guitar  
+- 🎮 Interested in **Game Dev (Unity 2D/3D)**   
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python, JavaScript, TypeScript, C  
-- **Frameworks & Tools**: React, Vite, Express.js, Node.js  
-- **Databases**: Supabase, Firebase  
-- **AI/ML**: Ollama, Gemini API, OCR (Tesseract.js), Nomic embeddings  
-- **Others**: Git/GitHub, Blender (3D models), Unity  
+- **Languages**: Python , C    
+- **Databases**: Supabase 
+- **AI/ML**: Ollama, Gemini API
+- **Others**: Git/GitHub  
 
 ---
 
@@ -38,9 +36,8 @@
 ---
 
 ## 🌐 Connect With Me  
-- [LinkedIn](https://linkedin.com) <!-- replace with your link -->  
-- [Portfolio Website](https://your-portfolio-link.com) <!-- replace -->  
-- 📧 Email: your-email@example.com  
+- [LinkedIn](https://linkedin.com) www.linkedin.com/in/yashwanth-abhishek-4626a8323  
+- 📧 Email: yashwanthabhishek@gmail.com
 
 ---
 
