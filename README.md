@@ -34,6 +34,18 @@
 - 💼 Land an internship in **Data/AI**  
 
 ---
+## 📊 GitHub Grind  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Abhishek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Abhishek&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+### 🔥 Weekly Contribution Streaks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashwanth-Abhishek&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak Stats"/>
+</p>
+
 
 ## 🌐 Connect With Me  
 - [LinkedIn](https://linkedin.com) www.linkedin.com/in/yashwanth-abhishek-4626a8323  
