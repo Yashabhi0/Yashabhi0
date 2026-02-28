@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
+
 # 👋 Hi, I'm Yashwanth Abhishek  
 
 🎓 B.Tech | Data Science & Engineering @ MLRIT  
