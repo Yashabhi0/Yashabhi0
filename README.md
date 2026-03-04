@@ -65,14 +65,14 @@
 
 # 📌 Featured Projects  
 
-🔡 **Text to Sign Language Converter**  
-→ 3D animated sign language gestures rendered on the web  
+🚀 **[RoastMyStartup](https://github.com/Yashabhi0/RoastMyStartup-main)**  
+→ AI tool that brutally evaluates startup ideas and provides honest feedback  
 
-💡 **Idea Forge**  
-→ Generates unique project ideas in just **3 steps**  
+📝 **[Notes](https://github.com/Yashabhi0/Notes)**  
+→ Organized collection of technical notes and learning resources  
 
-🏥 **MedArchive**  
-→ AI-powered **digital medical report organizer**
+💡 **[IdeaForge](https://github.com/Yashabhi0/IDEAFORGE)**  
+→ Generates unique project ideas in just **3 steps**
 
 ---
 
