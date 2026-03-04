@@ -3,24 +3,28 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;Web+Developer;Interested+in+Game+developing;Interest+in+Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Data+Science+Explorer;AI+Builder;Web+Developer;Interested+in+Game+Development;Exploring+Agentic+AI"/>
 </p>
+
+---
+
 # 👋 Hi, I'm Yashwanth Abhishek  
 
-🎓 B.Tech | Data Science & Engineering @ MLRIT  
-💡 Passionate about AI, Data Science, and building impactful micro-projects  
+🎓 **B.Tech | Data Science & Engineering @ MLRIT**  
+💡 Passionate about **AI, Data Science, and building impactful micro-projects**
 
 ---
 
-## 🚀 About Me  
+# 🚀 About Me  
+
 - 🔭 Currently working on **AI + Web Projects**  
 - 🌱 Learning **Data Analysis, Python, and Machine Learning**  
-- 🤖 Exploring **Agentic AI, AI-powered apps, and micro-projects**  
-- 🎮 Interested in **Game Dev (Unity 2D/3D)**   
+- 🤖 Exploring **Agentic AI and AI-powered apps**  
+- 🎮 Interested in **Game Development (Unity 2D/3D)**  
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 
 ### 💻 Languages  
 
@@ -56,38 +60,66 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </p>
----
-
-## 📌 Featured Projects  
-- 🔡 **Text to Sign Language Converter** – 3D animated sign language gestures on the web  
-- 💡 **Idea Forge** – Generate unique project ideas in just 3 steps  
-- 🏥 **MedArchive** – AI-powered digital medical report organizer  
 
 ---
 
-## 📈 Current Goals  
-- 🧑‍💻 Strengthen Data Analysis & Visualization skills  
-- 📊 Build real-world Data Science projects  
-- 💼 Land an internship in **Data/AI**  
+# 📌 Featured Projects  
+
+🔡 **Text to Sign Language Converter**  
+→ 3D animated sign language gestures rendered on the web  
+
+💡 **Idea Forge**  
+→ Generates unique project ideas in just **3 steps**  
+
+🏥 **MedArchive**  
+→ AI-powered **digital medical report organizer**
 
 ---
-## 📊 GitHub Grind  
+
+# 📈 Current Goals  
+
+- 🧑‍💻 Strengthen **Data Analysis & Visualization skills**  
+- 📊 Build **real-world Data Science projects**  
+- 💼 Land an **internship in Data / AI**
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Abhishek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Abhishek&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+
+![Stars](https://img.shields.io/github/stars/Yashabhi0?style=for-the-badge&color=7aa2f7&label=Stars)
+![Followers](https://img.shields.io/github/followers/Yashabhi0?style=for-the-badge&color=bb9af7&label=Followers)
+![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge)
 </p>
-
-### 🔥 Weekly Contribution Streaks  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashwanth-Abhishek&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak Stats"/>
-</p>
-
-
-## 🌐 Connect With Me  
-- [LinkedIn](https://linkedin.com) www.linkedin.com/in/yashwanth-abhishek-4626a8323  
-- 📧 Email: yashwanthabhishek@gmail.com
 
 ---
 
-⭐ *“Turning ideas into reality through code and data.”*  
+# 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashabhi0&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashabhi0&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/yashwanth-abhishek-4626a8323  
+
+📧 Email  
+yashwanthabhishek@gmail.com  
+
+---
+
+<p align="center">
+⭐ <i>Turning ideas into reality through code and data.</i>
+</p>
