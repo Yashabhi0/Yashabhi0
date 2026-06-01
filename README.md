@@ -118,10 +118,10 @@
 # 🌐 Connect With Me  
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/yashwanth-abhishek-4626a8323  
+www.linkedin.com/in/yashwanth-abhishek-4626a8323
 
 📧 Email  
-yashwanthabhishek@gmail.com  
+yashwanthabhishek05@gmail.com  
 
 ---
 
