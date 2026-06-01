@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a2e&height=250&section=header&text=Yashwanth%20Abhishek&fontSize=45&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20AI%20Enthusiast%20%7C%20Building%20Practical%20Projects&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,50:120025,100:1a0035&height=250&section=header&text=Yashwanth%20Abhishek&fontSize=45&fontColor=C792EA&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20AI%20Enthusiast%20%7C%20Building%20Practical%20Projects&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Data+Science+Student;AI+Enthusiast;Web+Developer;Building+Practical+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=650&lines=Data+Science+Student;AI+Enthusiast;Web+Developer;Building+Practical+Projects"/>
 </p>
----
 
 # 👋 Hi, I'm Yashwanth Abhishek  
 
