@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Yashwanth%20Abhishek&fontSize=45&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Data%20Science%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Yashwanth%20Abhishek&fontSize=45&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20AI%20Enthusiast%20%7C%20Building%20Practical%20Projects&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Data+Science+Explorer;AI+Builder;Web+Developer;Interested+in+Game+Development;Exploring+Agentic+AI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Data+Science+Student;AI+Enthusiast;Web+Developer;Building+Practical+Projects"/>
 </p>
 
 ---
@@ -18,9 +18,7 @@
 # 🚀 About Me  
 
 - 🔭 Currently working on **AI + Web Projects**  
-- 🌱 Learning **Data Analysis, Python, and Machine Learning**  
-- 🤖 Exploring **Agentic AI and AI-powered apps**  
-- 🎮 Interested in **Game Development (Unity 2D/3D)**  
+- 🌱 Learning **Data Analysis, Python, and Machine Learning**   
 
 ---
 
@@ -50,14 +48,39 @@
 
 ---
 
-### 🤖 AI / ML Tools  
+### 🤖 AI / ML Tools
 
 <p align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</p>
+
+---
+
+### 📊 Data Science
+
+<p align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</p>
+
+---
+
+### 🛠️ Dev Tools
+
+<p align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </p>
 
@@ -84,28 +107,10 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-![Stars](https://img.shields.io/github/stars/Yashabhi0?style=for-the-badge&color=7aa2f7&label=Stars)
-![Followers](https://img.shields.io/github/followers/Yashabhi0?style=for-the-badge&color=bb9af7&label=Followers)
-![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge)
-</p>
-
----
-
 # 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashabhi0&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashabhi0&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
